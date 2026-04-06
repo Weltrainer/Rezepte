@@ -1,7 +1,5 @@
 <small>[zurück](README.md)</small>
 
----
-
 ## Kürbissuppe 🎃
 **Zutaten**
 * 800g Kürbis
