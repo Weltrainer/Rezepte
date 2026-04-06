@@ -1,5 +1,3 @@
-<small>[zurück](README.md)</small>
-
 ## Erbsensuppe
 
 **Zutaten**
@@ -22,4 +20,6 @@
 - Kräuterfrischkäse & Meerrettich dazu
 - Pürieren
 - Würzen
-- Restliche Erbsen dazugebuuen
+- Restliche Erbsen dazugeben
+
+<small>[zurück](README.md)</small>
