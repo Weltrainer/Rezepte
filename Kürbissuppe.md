@@ -1,6 +1,6 @@
 <small>[zurück](README.md)</small>
 
-## Kürbissuppe 🎃
+## Kürbissuppe
 **Zutaten**
 * 800g Kürbis
 * 200g Kartoffeln 
