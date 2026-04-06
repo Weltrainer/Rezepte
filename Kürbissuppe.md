@@ -1,4 +1,5 @@
-[zurück](Readme.md)
+<small>[zurück](README.md)</small>
+
 ---
 
 ## Kürbissuppe 🎃
