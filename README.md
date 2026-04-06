@@ -3,7 +3,7 @@
 ---
 
 * [Erbsensuppe](#erbsensuppe)
-* [Kürbissuppe](#kürbissuppe)
+* [Kürbissuppe](Kürbissuppe.md)
 
 ---
 
