@@ -21,8 +21,8 @@
 - 5 Minuten warten
 - Salz, Butter, Ei und Mehl zugeben
 - 5 Minuten kneten
-- Abgedeckt 1 Stunde gehen lassen
-- 85 g Kugeln formen
+- Abgedeckt 1 Stunde gehen lassen (große Schüssel)
+- 85 g Kugeln formen (feuchte Hände helfen)
 - Auf dem Blech auslegen (4-3-4)
 - 1 Stunde gehen lassen
 - Mit Ei-Wasser-Milch-Gemisch bestreichen
