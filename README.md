@@ -1,4 +1,5 @@
 * [Burgerbuns](Burgerbuns.md)
 * [Erbsensuppe](Erbsensuppe.md)
+* [Fischburger](Fischburger)
 * [Kürbissuppe](Kürbissuppe.md)
 * [Remoulade](Remoulade.md)
