@@ -1,5 +1,7 @@
 ## Kürbissuppe
-**Zutaten**
+
+### Zutaten
+
 * 800g Kürbis
 * 200g Kartoffeln 
 * 2 Zwiebeln
@@ -10,7 +12,8 @@
 * Petersilie
 * Salz, Pfeffer, Muskatnuss
 
-**Zubereitung**
+### Zubereitung
+
 - Zwiebel & Knoblauch würfeln
 - In Butter anbraten
 - Kürbis und Kartoffeln würfeln und zugeben
