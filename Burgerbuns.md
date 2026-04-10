@@ -1,6 +1,7 @@
 ## Burgerbuns
 
-**Zutaten**
+###Zutaten
+
 * 200 ml Wasser
 * 4 EL Milch
 * 1 Würfel frische Hefe
@@ -16,7 +17,7 @@
 * 2 EL Wasser
 * Sesam
 
-**Zubereitung**
+### Zubereitung
 - Wasser, Milch, Hefe und Zucker verrühren
 - 5 Minuten warten
 - Salz, Butter, Ei und Mehl zugeben
