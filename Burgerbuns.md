@@ -5,10 +5,16 @@
 * 4 EL Milch
 * 1 Würfel frische Hefe
 * 20 g Zucker
+* --
 * 8 g Salz
 * 80 g weiche Butter
 * 1 Ei
 * 500 g Mehl Typ 550
+* --
+* 1 Ei
+* 2 EL Milch
+* 2 EL Wasser
+* Sesam
 
 **Zubereitung**
 - Wasser, Milch, Hefe und Zucker verrühren
