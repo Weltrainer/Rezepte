@@ -1,6 +1,7 @@
 ## Erbsensuppe
 
-**Zutaten**
+### Zutaten
+
 * 450 g Erbsen
 * 250 g Kartoffeln 
 * Lauch
@@ -10,7 +11,8 @@
 * Meerrettich 
 * Gewürze: Salz, Pfeffer, Majoran
 
-**Zubereitung**
+### Zubereitung
+
 - Lauch in Ringe schneiden
 - Im Olivenöl anbraten (Suppentopf)
 - Kartoffeln würfeln und dazugeben
