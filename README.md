@@ -2,4 +2,6 @@
 * [Erbsensuppe](Erbsensuppe.md)
 * [Fischburger](Fischburger.md)
 * [Kürbissuppe](Kürbissuppe.md)
+* [Mohnkuchen](Mohnkuchen.md)
 * [Remoulade](Remoulade.md)
+* [Stockbrot](Stockbrot.md)
