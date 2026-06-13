@@ -1,5 +1,6 @@
 * [Burgerbuns](Burgerbuns.md)
 * [Erbsensuppe](Erbsensuppe.md)
+* [Dinkelwaffeln](Dinkelwaffeln.md)
 * [Fischburger](Fischburger.md)
 * [Kürbissuppe](Kürbissuppe.md)
 * [Mohnkuchen](Mohnkuchen.md)
